@@ -1,0 +1,55 @@
+# project_or_repository_Name
+wp_login
+
+user:
+
+pass:
+
+
+# 今回のプロジェクトの基本定義
+
+## font(css/base/font/_copy.scss)
+・font_family: ;
+
+
+## color (css/base/variable/_colors.scss)
+###color変数
+(*cssのcolorプロパティなどで使用する今回プロジェクトのメインとなるカラーは
+color変数として定義)
+$site__main_color: ;
+
+$site__sub_color: ;
+
+$site__nav_color: ;
+
+など
+
+（必要に応じて追加していく）
+
+###リンクで適用されるcolor変数
+
+$color__link-hover: ;
+
+$color__link-visited: ;
+
+
+## site_structure_width (css/base/variable/_structure.scss)
+
+$size__site-main: ++++++px;
+
+$size__site-content: +++++px;
+
+//$size__site-content-inner: +++px;
+
+$size__site-sidebar: +++px;(例：235px)
+
+:
+
+
+## font_variable (css/base/variable/_typography.scss)
+*今回のプロジェクトで使用するフォントを追加していく
+
+$font_hoge:
+
+　：
+
