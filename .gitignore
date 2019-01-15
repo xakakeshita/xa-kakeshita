@@ -93,6 +93,7 @@ debug.log
 /movefile.yml
 /wp-cli.phar
 
+<<<<<<< HEAD
 .DS_Store
 .idea/copyright/
 /composer.phar
@@ -101,3 +102,16 @@ debug.log
 /public_html/wp-content/themes/flapsplan/css/site.bundle.js
 /public_html/wp-content/themes/flapsplan/css/site.bundle.js.map
 /node_modules/
+=======
+ ### WordPress ###
+*.log
+/public_html/"xa-kakeshita"/*
+!/public_html/"xa-kakeshita"/readme.html
+!/public_html/"xa-kakeshita"/wp-config.dist
+
+/public_html/wp-content/*
+!/public_html/wp-content/themes
+/public_html/wp-content/themes/*
+!/public_html/wp-content/themes/"project_themes_name"
+/public_html/wp-content/themes/project-theme-name/css/site.css.map
+>>>>>>> 584127bf618d9c73cf18eee47206866765148fd3
