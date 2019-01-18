@@ -1,0 +1,74 @@
+/*structure*/
+.st-container{
+
+}
+
+
+/*body*/
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+/*text*/
+.text-Title-bg{
+  font-size: 77px;
+  line-height: 72px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.text-SubTitle{
+  font-size: 35px;
+  line-height: 35px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #aaaaaa;
+}
+.text-description{
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1.42857143;
+  color: #333;
+}
+.text-plus{
+  font-size: 18px;
+  font-weight: bold;
+}
+/*hr*/
+.hr-sm{
+  display: block;
+  color: #55b49c;
+  width: 50px;
+  height: 10px;
+}
+/*header*/
+.header{
+
+}
+.header-Title{
+
+}
+.nav{
+
+}
+
+/*intro*/
+.intro{
+
+}
+.intro-Text_Block{
+
+}
+.intro-Title{
+
+}
+.intro-Text_Lead{
+
+}
+.intro-Text_Description{
+
+}
+
+/*.sns*/
+
