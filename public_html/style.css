@@ -213,7 +213,7 @@ body{
 }
 .projet-Title{
   position: absolute;
-  top: 0;
+  top: 85px;
   left: 45px;
   z-index: 2;
 }
